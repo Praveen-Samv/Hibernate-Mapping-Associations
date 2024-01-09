@@ -1,0 +1,6 @@
+com\ManyToMany\ruuner\TestRunner.class
+com\ManyToMany\repository\BookRepository.class
+com\ManyToMany\entity\Student.class
+com\ManyToMany\repository\StudentRepository.class
+com\ManyToMany\entity\Book.class
+com\ManyToMany\SpringBootManyToManyMappingApplication.class
